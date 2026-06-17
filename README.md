@@ -1,7 +1,3 @@
-Hier ist ein Entwurf für eine professionelle und stilvolle `README.md`-Datei, die du direkt in dein Projektverzeichnis (z. B. auf GitHub) packen kannst. Sie fängt den humorvollen Ton des Spiels ein und gibt gleichzeitig klare Anweisungen für den Spieler.
-
----
-
 # Das Jona-Protokoll: Ein interaktives Büro-Dilemma
 
 Willkommen beim **Jona-Protokoll** – einem textbasierten Adventure, das stark von modernen Meta-Spielen wie *The Stanley Parable* inspiriert ist.
